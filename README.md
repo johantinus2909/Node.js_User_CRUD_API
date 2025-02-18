@@ -28,8 +28,8 @@ Jika API ini sudah dideploy ke server atau platform cloud, Anda bisa menambahkan
 Kloning repository ini ke komputer lokal Anda dengan perintah:
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/johantinus2909/Node.js_User_CRUD_API.git
+cd folder_project
 ```
 ### 2. Instal Dependensi
 
