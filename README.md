@@ -15,12 +15,6 @@ API ini memungkinkan Anda untuk mengelola data pengguna menggunakan endpoint ber
 - **PUT /users/:id**: Memperbarui data pengguna berdasarkan ID.
 - **DELETE /users/:id**: Menghapus pengguna berdasarkan ID.
 
-### Link Deploy (Jika Ada)
-
-Jika API ini sudah dideploy ke server atau platform cloud, Anda bisa menambahkan link di sini. Misalnya:
-
-- [Link Deploy API](https://example.com)
-
 ## Instruksi Instalasi
 
 ### 1. Kloning Repository
